@@ -28,6 +28,6 @@ Here are some of my key projects:
 Let's connect and collaborate! Feel free to reach out to me:
 - 📧 Email: Rick.bhardwaj65@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rakshit-bhardwaj-0a20652b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📝 Portfolio:
+- 📝 Portfolio: https://github.com/RICK-BHARDWAJ/Rakshit_Portfolio
 
 Thanks for visiting my profile! 🚀
