@@ -20,9 +20,12 @@ Welcome to my GitHub profile! I'm passionate about **Data Analytics** and **Mach
 ## 📌 Projects
 Here are some of my key projects:
 
-- 📈 
-- 🏥 
-- 🚗 
+- 📈 MongoDB Api Project
+- 🏥 Spotify Api Project 
+- 🚗 Hydroegen Racing Car Game Development Project
+  Project Link:(https://norquest-my.sharepoint.com/:u:/g/personal/rbhardwaj41_norquest_ca/EeE2O_NrQGxIrSeZJ5t_PJQBjzOnCyVnxZZsOiah-sp-tQ)
+- 💻 Predictive model that estimates the probability of a borrower experiencing financial distress within the next two years
+  Project Link: 
 
 ## 📫 Connect with Me
 Let's connect and collaborate! Feel free to reach out to me:
