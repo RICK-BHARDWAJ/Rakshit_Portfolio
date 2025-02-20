@@ -23,9 +23,9 @@ Here are some of my key projects:
 - 📈 MongoDB Api Project
 - 🏥 Spotify Api Project 
 - 🚗 Hydroegen Racing Car Game Development Project
-  Project Link:(https://norquest-my.sharepoint.com/:u:/g/personal/rbhardwaj41_norquest_ca/EeE2O_NrQGxIrSeZJ5t_PJQBjzOnCyVnxZZsOiah-sp-tQ)
+  Link:(https://norquest-my.sharepoint.com/:u:/g/personal/rbhardwaj41_norquest_ca/EeE2O_NrQGxIrSeZJ5t_PJQBjzOnCyVnxZZsOiah-sp-tQ)
 - 💻 Predictive model that estimates the probability of a borrower experiencing financial distress within the next two years
-  Project Link: 
+  Link: (https://github.com/RICK-BHARDWAJ/Rakshit_Portfolio/blob/main/Rakshit_Bhjardwaj_Practicing_my_MLA_Skills.ipynb) 
 
 ## 📫 Connect with Me
 Let's connect and collaborate! Feel free to reach out to me:
